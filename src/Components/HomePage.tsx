@@ -10,6 +10,7 @@ import Projects from "./Projects";
 import Skills from "./Skills";
 import Social from "./Social";
 import { Toaster } from "react-hot-toast";
+import Certification from "./Certification"
 
 const HomePage = () => {
     const [loading, setLoading] = useState(true);
@@ -26,6 +27,7 @@ const HomePage = () => {
         <Projects />
         <Skills />
         <Experience />
+        <Certification/>
         <Contact />
         <Footer/>
         <Mail />

@@ -7,6 +7,15 @@ import { useDisclosure } from "@mantine/hooks";
 import { IconDownload } from "@tabler/icons-react";
 import Particles from "./magicui/Particles";
 import { NeonGradientCard } from "./magicui/neon-gradient-card";
+// D:\LPU\6th Sem\Portfolio\Portfolio\public\profile.png
+
+import passport from "../Components/Passport.png"
+
+
+
+
+
+
 const About = () => {
     const [opened, { open, close }] = useDisclosure(false);
     const btn =useMatches({
@@ -38,9 +47,16 @@ const About = () => {
                     </div>
                 </div>
                 <div className="h-fit flex justify-center items-center rounded-full bs:mr-10 w-fit">
-                    <NeonGradientCard className="w-[325px] h-[325px] lg-mx:w-64 lg-mx:h-64 xsm-mx:w-56 xsm-mx:h-56 items-center justify-center text-center">
-                        <img className="w-full  h-full rounded-full " src="profile.png" alt="profile" />
-                    </NeonGradientCard>
+                <NeonGradientCard className="w-[325px] h-[325px] lg-mx:w-64 lg-mx:h-64 xsm-mx:w-56 xsm-mx:h-56 items-center justify-center text-center">
+<img
+  className="w-full h-full rounded-full object-cover"
+  src={passport}
+  alt="avatar"
+/>
+
+</NeonGradientCard>
+
+
                 </div>
             </div>
             <ResumeViewer opened={opened} close={close} />

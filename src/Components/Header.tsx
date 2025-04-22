@@ -10,7 +10,7 @@ const navLinks=(col:Boolean, clicked:any)=>{
         if(clicked)clicked();
     }
     return links.map((link, index)=>{
-        return  <a key={index} onClick={handleClick} className={`${col?'flex flex-col items-center':''} text-textColor text-lg font-mono hover:text-primaryColor`} href={`#${link}`}><span className="text-primaryColor">0{index+1}. </span>{link}</a>
+        return  <a key={index} onClick={handleClick} className={`${col?'flex flex-col items-center':''} text-textColor text-lg font-mono hover:text-primaryColor`} href={`#${link}`}><span className="text-primaryColor">{index+1}. </span>{link}</a>
     })
 }
 
