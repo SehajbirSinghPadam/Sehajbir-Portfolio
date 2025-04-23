@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Sehajbir-Portfolio/static/css/main.1fbcef86.css",
+    "main.js": "/Sehajbir-Portfolio/static/js/main.3fd0139b.js",
+    "static/js/453.acca0757.chunk.js": "/Sehajbir-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/Snapbite.png": "/Sehajbir-Portfolio/static/media/Snapbite.eb8279a06bc4475886cc.png",
+    "static/media/Passport.png": "/Sehajbir-Portfolio/static/media/Passport.46218b893473c0d2f1cd.png",
+    "static/media/HelpingBuddies.png": "/Sehajbir-Portfolio/static/media/HelpingBuddies.a15b95e61a57af807b63.png",
+    "static/media/SocialClub.png": "/Sehajbir-Portfolio/static/media/SocialClub.ffff904cb6bc3c1add2e.png",
+    "static/media/GSAP.png": "/Sehajbir-Portfolio/static/media/GSAP.dc93949e47633129f596.png",
+    "static/media/PostgresSQL.png": "/Sehajbir-Portfolio/static/media/PostgresSQL.045123cf69a3bfe76dcb.png",
+    "static/media/Spring Tool Suite.png": "/Sehajbir-Portfolio/static/media/Spring Tool Suite.4f26ba0f1073b255a50c.png",
+    "static/media/Firebase.png": "/Sehajbir-Portfolio/static/media/Firebase.537840208fe3abb15a4c.png",
+    "static/media/Java.png": "/Sehajbir-Portfolio/static/media/Java.0f5085ef768f696676da.png",
+    "static/media/C.png": "/Sehajbir-Portfolio/static/media/C.8c9ebfca999db25aa7ba.png",
+    "static/media/Postman.png": "/Sehajbir-Portfolio/static/media/Postman.6e5519744542e4cf94a3.png",
+    "static/media/VS Code.png": "/Sehajbir-Portfolio/static/media/VS Code.ec0e2a1f0d2cde844adb.png",
+    "static/media/Express JS.png": "/Sehajbir-Portfolio/static/media/Express JS.51c56d61fe7b2ccedeb2.png",
+    "static/media/C++.png": "/Sehajbir-Portfolio/static/media/C++.e71fd381ff2117b50811.png",
+    "static/media/MySQL.png": "/Sehajbir-Portfolio/static/media/MySQL.32d0719eb44b2226ac4c.png",
+    "static/media/MongoDB.png": "/Sehajbir-Portfolio/static/media/MongoDB.e1afb73651b5a5c94406.png",
+    "static/media/MongoDB Compass.png": "/Sehajbir-Portfolio/static/media/MongoDB Compass.aacbd2919f2b7caf902f.png",
+    "static/media/Github.png": "/Sehajbir-Portfolio/static/media/Github.eba2ecb9e7675e26420d.png",
+    "static/media/Material UI.png": "/Sehajbir-Portfolio/static/media/Material UI.14bf882ef750f3f35945.png",
+    "static/media/SASS.png": "/Sehajbir-Portfolio/static/media/SASS.ab1f30eb8120111cf614.png",
+    "static/media/Redux.png": "/Sehajbir-Portfolio/static/media/Redux.492ed7d54dd2352c5786.png",
+    "static/media/Springboot.png": "/Sehajbir-Portfolio/static/media/Springboot.953ee24309fa38748981.png",
+    "static/media/TypeScript.png": "/Sehajbir-Portfolio/static/media/TypeScript.5deb089e87ebcfae9c97.png",
+    "static/media/HTML.png": "/Sehajbir-Portfolio/static/media/HTML.be50d4568ab0cb01edb8.png",
+    "static/media/Bootstrap.png": "/Sehajbir-Portfolio/static/media/Bootstrap.5f221ec70518e4c64eaa.png",
+    "index.html": "/Sehajbir-Portfolio/index.html",
+    "main.1fbcef86.css.map": "/Sehajbir-Portfolio/static/css/main.1fbcef86.css.map",
+    "main.3fd0139b.js.map": "/Sehajbir-Portfolio/static/js/main.3fd0139b.js.map",
+    "453.acca0757.chunk.js.map": "/Sehajbir-Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fbcef86.css",
+    "static/js/main.3fd0139b.js"
+  ]
+}
