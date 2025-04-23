@@ -12,9 +12,10 @@ import HelpingBuddies from "./Components/HelpingBuddies.png";
 const Info = {
   name: "Sehajbir Singh",
   stack: [
-    "Full Stack Developer",
+    "Full Stack Web Developer",
     "Ethical Hacker",
     "Freelancer",
+    "Embedded Enginner",
     "Open Source Contributor",
   ],
   bio: "I'm a passionate Full Stack Web Developer with a strong focus on building robust, user-friendly web applications from the ground up. I specialize in both frontend and backend technologies, ensuring seamless integration, high performance, and clean code. Whether it's developing dynamic websites, solving complex backend challenges, or creating pixel-perfect UI/UX, I’m all about delivering results that exceed expectations. I also take on freelance projects and love collaborating with visionary clients and teams.",
